@@ -1,0 +1,71 @@
+/* * {
+    padding: 0px;
+    margin: 0px;
+} */
+
+/* h2 {
+    display: inline;
+    background-color: pink;
+}
+span {
+    display: block;
+    background-color: limegreen;
+    height: 50px;
+} */
+
+
+
+
+
+/* 
+div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+}
+
+#third {
+    display: none;
+} */
+
+
+
+
+#outer {
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    margin: 50px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+#inner {
+
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin-left: 10%;
+    font-size: 1em;
+    padding: 1em;
+    
+
+}
+
+button {
+    font-size: 40px;
+    border-radius: 15px;
+    border: 5px solid green;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+section {
+    font-size: 15px;
+}
+
+.one {
+    font-size: 2rem;
+}
